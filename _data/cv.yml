@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Timothy Michael Mears
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th February 1992
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate Study
+      institution: University of Massachusetts, Dartmouth
+      year: 2014
       description:
         - Description 1.
         - Description 2.
@@ -21,45 +21,74 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Highschool diploma
+      institution: Upper Cape Cod Regional Technical High School, Bourne, Massachusetts
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - Electronics/Pre-Engineering program
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Counterintelligence Analyst
+      institution: CACI International Inc
+      year: 09/2022 - current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Coordinated, analyzed, and produced intelligence products on foreign intelligence threats to Department of Defense (DoD) activities, supply chains, emerging technologies, and defense critical infrastructure.
+        - Conducted daily research on raw intelligence to identify potential CI threats to DoD interests, and identify emerging threat trends & patterns.
+        - Collaborated with various agencies & organizations to exchange information on activities related to threats to DoD personnel, resources, activities, and interests. 
+        - Participated in working groups on global foreign intelligence threats to DoD, to provide all-source analysis support to strategic planning. 
+        - Identified and articulated indicators of CI threats in support of developing strategies to mitigate risks to operational and strategic interests
+
+    - title: Ground SIGINT Analyst
+      institution: CACI International Inc
+      year: 10/2019 - 05/2021
+      description:
+        - Provided support to INSCOM & SOCOM USFOR-A as a GS-13 equivalent in the capacity of Senior SIGINT Analyst.
+        - Presented decisions, estimates, and recommendations to DoD and NSA leadership under conditions of urgency, enabling the solution of unprecedented situations.
+        - Oversaw SIGINT collection to accomplish mission requirements, develop insurgent-networks, and identify actionable targets-of-interest, for a multi-provincial area of operations.
+        - Satisfied time-sensitive Requests for Information (RFI's) across multiple intelligence disciplines to support customer requirements and facilitate mission efficacy.
+        - Researched, Developed, Produced, and Presented multi-intelligence fusion products related to insurgent activities, threats to regional stability, and in support of Counter-Intelligence, and Counter-IED (CIED) operations.
+        - Performed analysis concerning counterterrorism (CT), target development, and battle damage assessment, to provide Special Forces & Strategic decision-makers with key insights and guidance with regard to mission planning.
+        - Assisted the Processing, Exploitation, and Dissemination (PED) Cell to meet end-user requirements.
+        - Trained uniformed personnel & civilian team members on a diverse range of SIGINT tools across varied domains, and provided continuity through multiple critical phases of the Afghan peace process.
+
+    - title: Force Protection System Operator
+      institution: CACI International Inc
+      year: 05/2019 - 10/2019
+      description: 
+        - Monitored, maintained, and evaluated vital equipment supporting a state-of-the-art Counter Unmanned Aerial System (C-UAS) Command and Control (C2) system.
+        - Evaluated potential threats based on SIGINT-analysis of target frequency and miscellaneous associated electronic identifying attributes.
+        - Eliminated confirmed or suspected high-threat targets utilizing Electronic Warfare (EW) and kinetic weapons systems.
+        - Worked collaboratively with Government uniformed and civilian staff to prepare for, respond to, and recover from, all incidents and crisis events that may impact the clients mission.
+
+    - title: Counterintelligence Analyst
+      institution: Pluribus International
+      year: 01/2018 - 09/2018
+      description:
+        - Provided a full range of Counterintelligence (CI) analytic and operational support to detect, identify, and monitor foreign intelligence entities (FIE) threats to DoD Research, Development, and Acquisition (RDA) Science & Technology (S&T).
+        - Identified threats to US RDA through biometrics-enabled identity analysis, in conjunction with intelligence information reports, and relevant SIGINT-derived reporting. 
+        - Utilized SIGINT-tools to perform link analysis of targets-of-interest, unveiling CI anomalies and potential threats to DoD Research and Development (R&D) programs.
+        - Conducted research, and developed assessments of adversarial actions and intentions to provide situational awareness for operational personnel and key leadership.
+        - Co-authored a Response Memo for a Senior-member of the Executive Branch which resulted in a policy-impact
+        - Co-authored two Quarter Science & Technology Conference products, to provide amplifying information and to increase situational awareness for intelligence officers in the field. 
+        - Contributed to a number of Defense Intelligence Digest products, upholding and modifying analytic lines.
+        - Knowledge of ODNI analytic tradecraft and familiarity with priority countries identified in the National Threat Identification and Prioritization Assessment (NTIPA) target sets.
+        - Attended Joint Counterintelligence Training Academy (JCITA) Counterintelligence Threat Seminar for Area of Responsibility.
+    
+    - title: Fusion Intelligence Analyst
+      institution: Air National Guard
+      year: 07/2011 - 07/2017
+      description:
+        - Developed analytical working aids, and maintained local SharePoint presence to support target collection, identification, and historics, increasing customer usability.
+        - Authored serialized SIGINT technical reports supporting national, strategic, and tactical level users in conjunction with multi-source intelligence utilized in products for National Executives
+        - Quality-checked fused analytical products to ensure timeliness, relevance, and accuracy
+        - Knowledgeable of Joint SIGINT procedures, and utilized experience in associated SIGINT tools/applications (e.g. NSAnet, JWICS, Trojan, DataXplorer, mIRC, GlobalStorm) to analyze & exploit intelligence information
+        - Trained analysts in DCGS Technical Reporting tactics, techniques, and procedures, resulting in a measurable increase of quality and overall production.
+        - title: Completed technical training at Goodfellow AFB, TX
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+            - XAAQR1N431BXXXX Network Intelligence Analysis Fundamentals
+            - XAABR1N431BXXXX Analysis and Production Apprentice
 
 - title: Open Source Projects
   type: time_table
@@ -82,14 +111,133 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Anthropology
       items:
-        - Description 1.
-        - Description 2.
+        - Description
+
+    - title: Applied Ethics
+      items:
+        - Description
+        
+    - title: Applied Mathematics
+      items:
+        - Description
+        
+    - title: Astronomy
+      items:
+        - Description
+        
+    - title: Astrophysics
+      items:
+        - Description
+        
+    - title: Botany
+      items:
+        - Description
+        
+    - title: Chemistry
+      items:
+        - Description
+        
+    - title: Classical Studies
+      items:
+        - Description
+        
+    - title: Coding
+      items:
+        - Description
+        
+    - title: Communication Studies
+      items:
+        - Description
+        
+    - title: Cultural Studies
+      items:
+        - Description
+        
+    - title: Data Science
+      items:
+        - Description
+        
+    - title: Electrical Engineering
+      items:
+        - Description
+        
+    - title: Government
+      items:
+        - Description
+        
+    - title: History
+      items:
+        - Description
+        
+    - title: Horticulture
+      items:
+        - Description
+        
+    - title: International Relations
+      items:
+        - Description
+        
+    - title: Journalism
+      items:
+        - Description
+        
+    - title: Languages
+      items:
+        - Description
+        
+    - title: Machine Learning
+      items:
+        - Description
+        
+    - title: Management
+      items:
+        - Description
+        
+    - title: Materials Science
+      items:
+        - Description
+        
+    - title: Mathematics
+      items:
+        - Description
+        
+    - title: Philosophy
+      items:
+        - Description
+        
+    - title: Physics
+      items:
+        - Description
+        
+    - title: Political Science
+      items:
+        - Description
+        
+    - title: Psychology
+      items:
+        - Description
+        
+    - title: Public Administration
+      items:
+        - Description
+        
+    - title: Public Policy
+      items:
+        - Description
+        
+    - title: Theology
+      items:
+        - Description
+        
+    - title: Statistics
+      items:
+        - Description
+        
+    - title: Writing
+      items:
+        - Description
 
 - title: Other Interests
   type: list

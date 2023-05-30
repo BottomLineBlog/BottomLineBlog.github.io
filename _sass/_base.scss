@@ -389,8 +389,8 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
   h1 {
     color: var(--global-theme-color);
@@ -542,6 +542,7 @@ footer.sticky-bottom {
 
 // Publications
 
+/*
 .publications {
   margin-top: 2rem;
 
@@ -714,7 +715,7 @@ footer.sticky-bottom {
     }
   }
 }
-
+*/
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
